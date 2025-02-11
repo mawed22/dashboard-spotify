@@ -36,4 +36,4 @@ pip install requests pandas spotipy
 python api_integration.py  
 
 ### Étape 4 : Charger le fichier Power BI 
-- **Ouvrez le fichier SpotifyDashboard.pbix dans Power BI Desktop pour explorer le dashboard** 
+- Ouvrez le fichier SpotifyDashboard.pbix dans Power BI Desktop pour explorer le dashboard.
